@@ -1,0 +1,38 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.stories-button{
+    height: 30px;
+    width: 200px;
+    position: absolute;
+    top: 45%;
+    left: 47%;
+}
+.stories-button-text{
+    background-color: lime;
+    border-radius: 25px;
+    text-align: center;
+    padding: 20px;
+    width: 200px;
+    height: 30px;
+}
+.stories-button-link{
+    color: white;
+    text-decoration: none;
+}
+.stories-list{
+    position: absolute;
+    left: 35%;
+    top: 40%;
+    padding: 20px;
+    height: 180px;
+    width: 600px;
+    color: white;
+    background-color: rgba(217, 230, 80,0,0);
+    border: 5px solid;
+}
+.stories-link{
+    text-decoration: none;
+ color: white;
+}
